@@ -16,9 +16,3 @@ Este é o repositório do projeto **Analisador de Dados Financeiro - Apple 2018*
 - 📈 Análise estatística do desempenho financeiro da Apple durante 2018.
 - 📊 Geração de gráficos e visualizações para facilitar a interpretação dos dados.
 - 📤 Exportação de resultados e relatórios em diversos formatos.
-
-## Como Executar 🚀
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/BeatrizBGSoares/analise-de-dados-financeiros.git
